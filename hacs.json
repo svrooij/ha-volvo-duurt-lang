@@ -1,0 +1,7 @@
+{
+  "name": "Volvo integration",
+  "content_in_root": false,
+  "country": ["NL"],
+  "hide_default_branch": false,
+  "categories": ["Integration"]
+}
